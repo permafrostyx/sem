@@ -1,4 +1,4 @@
 FROM openjdk:latest
-COPY ./target/niceMethods-1.2-SNAPSHOT-jar-with-dependencies.jar /tmp
+COPY ./target/niceMethods-0.1.0.2-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "-jar", "niceMethods-1.2-SNAPSHOT-jar-with-dependencies.jar"]
+ENTRYPOINT ["java", "-jar", "niceMethods-0.1.0.2-jar-with-dependencies.jar"]

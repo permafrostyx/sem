@@ -6,7 +6,7 @@
 
     <groupId>com.napier.sem</groupId>
     <artifactId>niceMethods</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>0.1.0.2</version>
 
     <dependencies>
         <dependency>
